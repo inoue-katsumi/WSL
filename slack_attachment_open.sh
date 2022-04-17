@@ -2,7 +2,7 @@
 #alias pbpaste='powershell.exe -command "Get-Clipboard" | tr -d "\r"'
 slack_f ()
 {
-    # Your org's ID
+    # Your org's ID. Probably 9 bytes of ASCII.
     org_team=Z012ZZZZZ
 
     # Get 'd' cookie string from Chrome, Firefox, etc. Needs to be URL safe(URL encoded) string
