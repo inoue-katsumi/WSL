@@ -15,3 +15,9 @@ Multiple WSL configurations for same shell, for single distribution. In my case,
 ## wssqlless.sh:
 
 Use Windows Search to find files which contain {search keyword}. Open all these files in less.
+
+## slack_attachment_open.sh
+
+https://katsumiinoue.wordpress.com/2022/04/17/open-slack-file-attachment-from-command-line-using-d-cookie-and-wslview/
+
+Open attachment in Slack from bach prompt.
