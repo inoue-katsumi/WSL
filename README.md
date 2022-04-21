@@ -21,3 +21,9 @@ Use Windows Search to find files which contain {search keyword}. Open all these 
 https://katsumiinoue.wordpress.com/2022/04/17/open-slack-file-attachment-from-command-line-using-d-cookie-and-wslview/
 
 Open attachment in Slack from bash prompt.
+
+## settings.json
+
+Windows Terminal setting file for WSL2. This has multiple Ubuntu-20.04 profiles. White on Green. White on Blue.
+
+/mnt/c/Users/$USER/Appdata/Local/Packages/Microsoft.WindowsTerminal*/LocalState/settings.json
